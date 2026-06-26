@@ -27,7 +27,7 @@ Apasionado por crear aplicaciones web modernas, escalables y de alto rendimiento
 - ⚙️ DevOps
 - 🔐 Arquitectura de Software
 
-🌎 Ubicación: **Ipiales, Colombia 🇨🇴**
+🌎 Ubicación: **palmira, Colombia 🇨🇴**
 
 ---
 
@@ -107,15 +107,7 @@ Próximamente...
 
 ---
 
-# 🏆 Trofeos
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=inguilan&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
 
 # 📈 Actividad
 
