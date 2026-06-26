@@ -108,16 +108,7 @@ Próximamente...
 ---
 
 
-
-# 📈 Actividad
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=inguilan&theme=tokyo-night"/>
-
-</div>
-
----
+  
 
 # 🤝 Me interesa colaborar en
 
