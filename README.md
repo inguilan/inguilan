@@ -57,13 +57,7 @@ Apasionado por crear aplicaciones web modernas, escalables y de alto rendimiento
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma" />
 </p>
 
-## ☁️ Cloud
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws" />
-</p>
-
----
 
 # 📂 Proyectos Destacados
 
